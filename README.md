@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploratory data analysis and machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on supervised and unsupervised models
-- 📫 How to reach me ...
+- 📫 How to reach me: email chua44.2004@hotmail.com
 
 <!---
 chua44/chua44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
